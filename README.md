@@ -1,5 +1,5 @@
 # NFL Big Data Bowl 2026
-[Offical Competition Page](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026)
+[Official Competition Page](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026)
 
 ---
 
@@ -16,7 +16,7 @@ The 2026 challenge focuses on analyzing **NFL player tracking data** to generate
 My participation goal is to practice advanced data analysis techniques, apply machine learning methods to a real-world dataset, and expand my professional portfolio. 
 
 ## Motivation
-While a strong leaderboard score would be a plus, the main reason for entering this competiton is professional growth. 
+While a strong leaderboard score would be a plus, the main reason for entering this competition is professional growth. 
 
 - Maintain momentum in applying/sharpening analysis skills.
 - Practice structured problem-soling under real-world constraints.
@@ -37,9 +37,9 @@ While a strong leaderboard score would be a plus, the main reason for entering t
 
 ## Next Steps
 - Engineer richer player, and game-level features.
-- Experiement with advanced models (XBoost, Random Forest, neural networks).
+- Experiment with advanced models (XBoost, Random Forest, neural networks).
 - Create visualizations to highlight insights and trends.
-- Track progress and document iterations for transperency.
+- Track progress and document iterations for transparency.
 
 ---
 
@@ -51,5 +51,21 @@ While a strong leaderboard score would be a plus, the main reason for entering t
 
 ---
 
+## Current Focus
+This repository currently prioritizes:
+- Structuring the workflow for efficient iteration.
+- Experimenting with feature engineering approaches.
+- Sharing transparent updates through committed notebooks.
 
+---
+
+## Acknowledgements
+- Data Source: [NFL Big Data Bowl 2026 - Kaggle Competition](https://www.kaggle.com/competitions-big-data-bowl-2026)
+- Special thanks to the NFL, Kaggle community, and open-source contributors who
+  made this analysis possible.
+
+---
+
+*Last Update: 10/2025*
+*Work in Progress - ongoing model and visualization improvements.*
 
