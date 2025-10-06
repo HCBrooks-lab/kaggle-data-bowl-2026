@@ -9,10 +9,10 @@ This project is focused on skill-building and professional momentum.
 
 ---
 
-## Anitmated Play Demo
+## Animated Play Demo
 This notebook includes a live animated play visualization built in Kaggle. 
-Click below toview it in action:
-[View Interactie Animation on Kaggle](https://www.kaggle.com/code/halleneb/notebook6c25222f07)
+Click below to view it in action:
+[View Interactive Animation on Kaggle](https://www.kaggle.com/code/halleneb/notebook6c25222f07)
 
 ## Objective
 The NFL Big Data Bowl is an annual analytics competition hosted on Kaggle. 
