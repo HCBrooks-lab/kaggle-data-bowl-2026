@@ -9,6 +9,11 @@ This project is focused on skill-building and professional momentum.
 
 ---
 
+## Anitmated Play Demo
+This notebook includes a live animated play visualization built in Kaggle. 
+Click below toview it in action:
+[View Interactie Animation on Kaggle](https://www.kaggle.com/code/halleneb/notebook6c25222f07)
+
 ## Objective
 The NFL Big Data Bowl is an annual analytics competition hosted on Kaggle. 
 The 2026 challenge focuses on analyzing **NFL player tracking data** to generate predicative models that improve understanding of the game. 
@@ -30,8 +35,8 @@ While a strong leaderboard score would be a plus, the main reason for entering t
 - Completed initial cleaning exploratory data analysis (EDA).
 - Built and submitted a baseline regression model (scored `0.482` on private
   leaderboard).
-- Set up repo structure with (Kaggle embedded) Jupyter notebooks for experiments and
-  visualizations.
+- Set up repo structure with (Kaggle embedded) Jupyter notebooks for experiments
+  and visualizations.
 
 ---
 
